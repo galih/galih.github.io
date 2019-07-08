@@ -1,8 +1,8 @@
 ---
 layout: post
-title: cobanulis
-categories: []
-image: ''
-
+title:  "Coba Menulis"
+author: galih
+categories:[posting]
+image: assets/images/5.jpg
 ---
-coba menulis
+tes menulkis
