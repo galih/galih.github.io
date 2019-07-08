@@ -6,12 +6,14 @@ tags: [sticky]
 
 #### Pengalaman Kerja
 
-**2008 - 2010** 
-Bekerja sebagai *Web Desainer* di Pustekkom Kemendikbud
-**2013 - 2014** 
-*Network Staff* di MIS Universitas Kanjuruhan Malang
-**2016 - 2018** 
-*Web-Apps Developer* di BPKLN Kemendikbud
+
+| Tahun |  Tempat |
+| --- | --- |
+| ***2008 - 2010*** |  Web Desainer di Pustekkom Kemendikbud |
+| ***2013 - 2014*** |  Network Staff di MIS Universitas Kanjuruhan Malang |
+| ***2016 - 2018*** |  Webapps Developer di Biro PKLN Kemendikbud |
+
+
 
 #### Portfolio
 
