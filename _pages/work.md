@@ -31,7 +31,10 @@ Matematika Dasar Sistem Informasi
 
 Resep Trenggalek
 
+Surat Ijin Diklat
+
 Universitas Kanjuruhan Malang
+
 
 
 **Website**
@@ -51,7 +54,7 @@ Wisata Virtual Alun-Alun Tugu Kota Malang
 
 #### Skill
 
-
+![]()
 
 #### Kontak
 
