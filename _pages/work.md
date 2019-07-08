@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Tentang Saya"
 permalink: "/about.html"
 tags: [sticky]
 ---
