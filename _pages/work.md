@@ -1,5 +1,5 @@
 ---
-title: "Working Portofolio"
+title: "Portofolio"
 permalink: "/work.html"
 tags: [sticky]
 ---
