@@ -51,6 +51,7 @@ Pusdiklat Pegawai
 **VR**
 
 Wisata Virtual Alun-Alun Tugu Kota Malang
+
 ![](http://117.53.44.33/img/vr1.png)
 ![](http://117.53.44.33/img/vr2.png)
 
