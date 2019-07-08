@@ -55,8 +55,6 @@ Universitas Kanjuruhan Malang
 
 BPKLN Edocs 
 
-SIMTRADA
-
 RNPK 2017
 
 Pusdiklat Pegawai
