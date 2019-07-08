@@ -19,21 +19,22 @@ tags: [sticky]
 
 **Apps**
 
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Alfaraby Play - Radio Dakwah 
+Arofah Tours - Tours & Travel Haji Umrah
+Kartolo CS Apps
+RNPK 2017
 
-**Mobile**
+**Website**
 
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 **VR**
 
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Wisata Virtual Alun-Alun tugu Kota Malang
 
 
 #### Skill
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
+![]()
 
 
 #### Kontak
