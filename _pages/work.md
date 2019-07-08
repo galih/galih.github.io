@@ -55,7 +55,7 @@ Wisata Virtual Alun-Alun Tugu Kota Malang
 
 #### Skill
 
-![]()
+![](http://117.53.44.33/img/sk1l.png)
 
 #### Kontak
 
