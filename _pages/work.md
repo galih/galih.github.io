@@ -22,20 +22,33 @@ tags: [sticky]
 
 Al-Farabi Play - Radio Dakwah 
 
+![](http://117.53.44.33/img/alfarabiplay.png)
+
 Arofah Tours - Tours & Travel Haji Umrah
+
+![](http://117.53.44.33/img/arofahtours.png)
 
 Jurnal PPNPN Pusdiklat
 
+![](http://117.53.44.33/img/jurnalppnpn.png)
+
+
 Kartolo CS 
+
+![](http://117.53.44.33/img/kartolocs.png)
 
 Matematika Dasar Sistem Informasi
 
+![](http://117.53.44.33/img/matsi.png)
+
 Resep Trenggalek
 
-Surat Ijin Diklat
+![](http://117.53.44.33/img/reseptglk.png)
+
 
 Universitas Kanjuruhan Malang
 
+![](http://117.53.44.33/img/un1kam4.png)
 
 
 **Website**
