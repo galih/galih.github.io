@@ -53,11 +53,11 @@ Universitas Kanjuruhan Malang
 
 **Website**
 
-BPKLN Edocs 
+BPKLN Edocs - bpkln.kemdikbud.go.id/edocs
 
-RNPK 2017
+Pusdiklat Pegawai - pusdiklat.kemdikbud.go.id
 
-Pusdiklat Pegawai
+RNPK Kemdikbud 2017 & 2018 - rnpk.kemdikbud.go.id
 
 **VR**
 
